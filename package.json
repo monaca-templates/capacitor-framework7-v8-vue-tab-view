@@ -5,6 +5,10 @@
   "description": "capacitor-framework7-v8-vue-tab-view",
   "repository": "",
   "license": "UNLICENSED",
+  "engines": {
+    "node": "~18.16.0",
+    "npm": "~9.5.0"
+  },
   "scripts": {
     "start": "npm run dev",
     "dev": "cross-env NODE_ENV=development vite",
@@ -41,6 +45,7 @@
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "@capacitor/assets": "^2.0.4",
     "@capacitor/cli": "^5.0.5",
     "@vitejs/plugin-vue": "^4.2.3",
     "@vue/compiler-sfc": "^3.3.4",
