@@ -47,12 +47,12 @@
   "devDependencies": {
     "@capacitor/assets": "^2.0.4",
     "@capacitor/cli": "^5.0.5",
-    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue": "^4.5.0",
     "@vue/compiler-sfc": "^3.3.4",
     "cordova-res": "^0.15.4",
     "cpy-cli": "^4.2.0",
     "cross-env": "^7.0.3",
     "postcss-preset-env": "^8.4.2",
-    "vite": "^4.3.9"
+    "vite": "^5.0.2"
   }
 }
